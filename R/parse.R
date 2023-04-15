@@ -28,3 +28,4 @@ use_r("parse.R")
 parse_dates(dates)
 
 load_all()
+check()
